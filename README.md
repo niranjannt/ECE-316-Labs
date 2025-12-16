@@ -53,4 +53,11 @@ A combinational sprinkler controller supporting up to 8 zones using a 3×8 decod
 Only one output may be active at a time when enabled.
 
 #### Logic Expressions
-d0 = E $\cdot$ A' $\cdot$ B' $\cdot$ C'd1 = E $\cdot$ A' $\cdot$ B' $\cdot$ Cd2 = E $\cdot$ A' $\cdot$ B $\cdot$ C'd3 = E $\cdot$ A' $\cdot$ B $\cdot$ Cd4 = E $\cdot$ A $\cdot$ B' $\cdot$ C'd5 = E $\cdot$ A $\cdot$ B' $\cdot$ Cd6 = E $\cdot$ A $\cdot$ B $\cdot$ C'd7 = E $\cdot$ A $\cdot$ B $\cdot$ C
+d0 = E ⋅ A' ⋅ B' ⋅ C'
+d1 = E ⋅ A' ⋅ B' ⋅ C
+d2 = E ⋅ A' ⋅ B ⋅ C'
+d3 = E ⋅ A' ⋅ B ⋅ C
+d4 = E ⋅ A ⋅ B' ⋅ C'
+d5 = E ⋅ A ⋅ B' ⋅ C
+d6 = E ⋅ A ⋅ B ⋅ C'
+d7 = E ⋅ A ⋅ B ⋅ C
