@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Nov 21 18:22:15 2025
+# Process ID         : 1236
+# Current directory  : C:/Users/niran/Desktop/ECE316/lab_6/lab_6.runs/impl_1
+# Command line       : vivado.exe -log Stopwatch_Timer_Top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Stopwatch_Timer_Top.tcl -notrace
+# Log file           : C:/Users/niran/Desktop/ECE316/lab_6/lab_6.runs/impl_1/Stopwatch_Timer_Top.vdi
+# Journal file       : C:/Users/niran/Desktop/ECE316/lab_6/lab_6.runs/impl_1\vivado.jou
+# Running On         : MSI
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i9-13950HX
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 24
+# CPU Logical cores  : 32
+# Host memory        : 34045 MB
+# Swap memory        : 6151 MB
+# Total Virtual      : 40197 MB
+# Available Virtual  : 7866 MB
+#-----------------------------------------------------------
+source Stopwatch_Timer_Top.tcl -notrace

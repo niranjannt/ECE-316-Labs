@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Oct 10 20:53:08 2025
+# Process ID         : 43492
+# Current directory  : C:/Users/niran/Desktop/ECE316/Lab_3/Lab_3.runs/impl_1
+# Command line       : vivado.exe -log decoder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source decoder.tcl -notrace
+# Log file           : C:/Users/niran/Desktop/ECE316/Lab_3/Lab_3.runs/impl_1/decoder.vdi
+# Journal file       : C:/Users/niran/Desktop/ECE316/Lab_3/Lab_3.runs/impl_1\vivado.jou
+# Running On         : MSI
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i9-13950HX
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 24
+# CPU Logical cores  : 32
+# Host memory        : 34045 MB
+# Swap memory        : 3221 MB
+# Total Virtual      : 37266 MB
+# Available Virtual  : 3584 MB
+#-----------------------------------------------------------
+source decoder.tcl -notrace

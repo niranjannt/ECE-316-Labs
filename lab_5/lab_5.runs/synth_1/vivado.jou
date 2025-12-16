@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Nov  7 16:01:24 2025
+# Process ID         : 500
+# Current directory  : C:/Users/niran/Desktop/ECE316/lab_5/lab_5.runs/synth_1
+# Command line       : vivado.exe -log RCA_4bits.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source RCA_4bits.tcl
+# Log file           : C:/Users/niran/Desktop/ECE316/lab_5/lab_5.runs/synth_1/RCA_4bits.vds
+# Journal file       : C:/Users/niran/Desktop/ECE316/lab_5/lab_5.runs/synth_1\vivado.jou
+# Running On         : MSI
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i9-13950HX
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 24
+# CPU Logical cores  : 32
+# Host memory        : 34045 MB
+# Swap memory        : 7618 MB
+# Total Virtual      : 41663 MB
+# Available Virtual  : 25289 MB
+#-----------------------------------------------------------
+source RCA_4bits.tcl -notrace

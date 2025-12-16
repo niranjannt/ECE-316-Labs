@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Nov 28 10:41:14 2025
+# Process ID         : 49852
+# Current directory  : C:/Users/niran/Desktop/ECE316/lab6_timer_fsm
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent11516 C:\Users\niran\Desktop\ECE316\lab6_timer_fsm\lab6_timer_fsm.xpr
+# Log file           : C:/Users/niran/Desktop/ECE316/lab6_timer_fsm/vivado.log
+# Journal file       : C:/Users/niran/Desktop/ECE316/lab6_timer_fsm\vivado.jou
+# Running On         : MSI
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i9-13950HX
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 24
+# CPU Logical cores  : 32
+# Host memory        : 34045 MB
+# Swap memory        : 6983 MB
+# Total Virtual      : 41028 MB
+# Available Virtual  : 20651 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/niran/Desktop/ECE316/lab6_timer_fsm/lab6_timer_fsm.xpr
+update_compile_order -fileset sources_1
+close [ open C:/Users/niran/Desktop/ECE316/lab6_timer_fsm/lab6_timer_fsm.srcs/sources_1/new/datapath.v w ]
+add_files C:/Users/niran/Desktop/ECE316/lab6_timer_fsm/lab6_timer_fsm.srcs/sources_1/new/datapath.v
+update_compile_order -fileset sources_1
